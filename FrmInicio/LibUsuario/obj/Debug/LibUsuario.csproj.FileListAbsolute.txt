@@ -1,0 +1,5 @@
+c:\users\ale\documents\visual studio 2012\Projects\FrmInicio\LibUsuario\bin\Debug\LibUsuario.dll
+c:\users\ale\documents\visual studio 2012\Projects\FrmInicio\LibUsuario\bin\Debug\LibUsuario.pdb
+c:\users\ale\documents\visual studio 2012\Projects\FrmInicio\LibUsuario\obj\Debug\LibUsuario.csprojResolveAssemblyReference.cache
+c:\users\ale\documents\visual studio 2012\Projects\FrmInicio\LibUsuario\obj\Debug\LibUsuario.dll
+c:\users\ale\documents\visual studio 2012\Projects\FrmInicio\LibUsuario\obj\Debug\LibUsuario.pdb

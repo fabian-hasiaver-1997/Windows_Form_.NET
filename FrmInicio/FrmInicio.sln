@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinGestionComercial", "WinGestionComercial\WinGestionComercial.csproj", "{90C0AD96-8DD9-43DC-B509-1906AFD61E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibUsuario", "LibUsuario\LibUsuario.csproj", "{4D05D0CA-AE52-4CD8-8098-50C0C855FFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibGestionComercialBD", "LibGestionComercialBD\LibGestionComercialBD.csproj", "{3AD5284D-F4EB-4397-94D8-E6B6311EF3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C0AD96-8DD9-43DC-B509-1906AFD61E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C0AD96-8DD9-43DC-B509-1906AFD61E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C0AD96-8DD9-43DC-B509-1906AFD61E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C0AD96-8DD9-43DC-B509-1906AFD61E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D05D0CA-AE52-4CD8-8098-50C0C855FFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D05D0CA-AE52-4CD8-8098-50C0C855FFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D05D0CA-AE52-4CD8-8098-50C0C855FFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D05D0CA-AE52-4CD8-8098-50C0C855FFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD5284D-F4EB-4397-94D8-E6B6311EF3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD5284D-F4EB-4397-94D8-E6B6311EF3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD5284D-F4EB-4397-94D8-E6B6311EF3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD5284D-F4EB-4397-94D8-E6B6311EF3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

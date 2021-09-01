@@ -1,0 +1,5 @@
+C:\Users\ale\Documents\Visual Studio 2012\Projects\FrmInicio\LibGestionComercialBD\bin\Debug\LibGestionComercialBD.dll
+C:\Users\ale\Documents\Visual Studio 2012\Projects\FrmInicio\LibGestionComercialBD\bin\Debug\LibGestionComercialBD.pdb
+C:\Users\ale\Documents\Visual Studio 2012\Projects\FrmInicio\LibGestionComercialBD\obj\Debug\LibGestionComercialBD.csprojResolveAssemblyReference.cache
+C:\Users\ale\Documents\Visual Studio 2012\Projects\FrmInicio\LibGestionComercialBD\obj\Debug\LibGestionComercialBD.dll
+C:\Users\ale\Documents\Visual Studio 2012\Projects\FrmInicio\LibGestionComercialBD\obj\Debug\LibGestionComercialBD.pdb
